@@ -1,0 +1,7 @@
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 361\Algoritmo 361\bin\Debug\Algoritmo 361.exe.config
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 361\Algoritmo 361\bin\Debug\Algoritmo 361.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 361\Algoritmo 361\bin\Debug\Algoritmo 361.pdb
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 361\Algoritmo 361\obj\Debug\Algoritmo 361.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 361\Algoritmo 361\obj\Debug\Algoritmo 361.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 361\Algoritmo 361\obj\Debug\Algoritmo 361.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Algoritmos Resolvidos\Algoritmo 361\Algoritmo 361\obj\Debug\Algoritmo 361.pdb
